@@ -1,0 +1,26 @@
+:root {
+  --color-twitter: #00acee;
+  --color-facebook: #3b5998;
+  --color-messenger: #00C6FF;
+  --color-instagram: #E1306C;
+  --color-linkedin: #0e76a8;
+  --color-appstore: #147efb;
+  --color-playstore: #f4c20d;
+}
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
